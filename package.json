@@ -3,10 +3,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://damiandawidowski.github.io/goit-projekt-html-css-6",
+  "homepage": "https://damiandawidowski.github.io/goit-team-projekt-css",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-projekt-html-css-6/"
+    "build": "parcel build src/*.html --public-url /goit-team-projekt-css/"
   },
   "repository": {
     "type": "git",
